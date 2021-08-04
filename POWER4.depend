@@ -1,0 +1,185 @@
+# depslib dependency file v1.0
+1603740837 source:c:\users\emman\desktop\power4\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"puissanc4.h"
+
+1603658577 c:\users\emman\desktop\power4\outils_puissance4.h
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1603658469 source:c:\users\emman\desktop\power4\outils_puissance4.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"outils_puissance4.h"
+
+1603657154 source:c:\users\emman\desktop\power4\puissance4.c
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"outils_puissance4.h"
+
+1603659141 c:\users\emman\desktop\power4\puissance4.h
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
+1603740170 c:\users\emman\desktop\power4\puissanc4.h
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1603740646 source:c:\users\emman\desktop\power4\puisssance4.cpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"puissanc4.h"
+
+1603906163 source:c:\users\emman\desktop\versionok\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"puissanc4.h"
+
+1603906019 c:\users\emman\desktop\versionok\puissanc4.h
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1603906355 source:c:\users\emman\desktop\versionok\puisssance4.cpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"puissanc4.h"
+
+1603919342 source:c:\users\emman\desktop\projetalgo\versionok2\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"puissanc4.h"
+
+1603915681 c:\users\emman\desktop\projetalgo\versionok2\puissanc4.h
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1603919479 source:c:\users\emman\desktop\projetalgo\versionok2\puisssance4.cpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"puissanc4.h"
+
+1604177544 source:c:\users\emman\desktop\projetalgo\versionok3\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"puissanc4.h"
+	<assert.h>
+	"unittest.h"
+
+1604177811 c:\users\emman\desktop\projetalgo\versionok3\puissanc4.h
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1604176115 source:c:\users\emman\desktop\projetalgo\versionok3\puisssance4.cpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"puissanc4.h"
+
+1603920917 source:c:\users\emman\desktop\projetalgo\versionok3\unittest.cpp
+	<math.h>
+	"unittest.h"
+
+1603198731 c:\users\emman\desktop\projetalgo\versionok3\unittest.h
+	<iostream>
+	<string>
+
+1604177784 source:c:\users\emman\desktop\projetalgo\versionok3\power4test.cpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"puissanc4.h"
+	"unittest.h"
+	<iostream>
+	<string.h>
+	<math.h>
+
+1604264383 source:c:\users\emman\desktop\projetalgo\versionok4\power4test.cpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"puissanc4.h"
+	"unittest.h"
+	<iostream>
+	<string.h>
+	<math.h>
+
+1604224021 c:\users\emman\desktop\projetalgo\versionok4\puissanc4.h
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1603198731 c:\users\emman\desktop\projetalgo\versionok4\unittest.h
+	<iostream>
+	<string>
+
+1604262496 source:c:\users\emman\desktop\projetalgo\versionok4\puisssance4.cpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"puissanc4.h"
+
+1603920917 source:c:\users\emman\desktop\projetalgo\versionok4\unittest.cpp
+	<math.h>
+	"unittest.h"
+
+1604264383 source:c:\users\emman\desktop\projetalgo\versionok4\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"puissanc4.h"
+	<assert.h>
+	"unittest.h"
+
+1604324935 source:c:\users\emman\desktop\projetdavidhalioua_emmanuelelbaz\power4test.cpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"puissanc4.h"
+	"unittest.h"
+	<iostream>
+	<string.h>
+	<math.h>
+
+1604224021 c:\users\emman\desktop\projetdavidhalioua_emmanuelelbaz\puissanc4.h
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1603198731 c:\users\emman\desktop\projetdavidhalioua_emmanuelelbaz\unittest.h
+	<iostream>
+	<string>
+
+1604262496 source:c:\users\emman\desktop\projetdavidhalioua_emmanuelelbaz\puisssance4.cpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"puissanc4.h"
+
+1603920917 source:c:\users\emman\desktop\projetdavidhalioua_emmanuelelbaz\unittest.cpp
+	<math.h>
+	"unittest.h"
+
+1604324935 source:c:\users\emman\desktop\projetdavidhalioua_emmanuelelbaz\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	"puissanc4.h"
+	<assert.h>
+	"unittest.h"
+
